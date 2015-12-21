@@ -1,0 +1,28 @@
+name: chair8media
+favicon: null
+layout_spectrum: 0.695234426530078
+typography_spectrum: 0.8598169190809131
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3602785833645612
+  lightness: 0.5497232831548899
+  saturation: 0.00857000658288598
+  rhythmicContrast: 0.57346519571729
+purpose: []
