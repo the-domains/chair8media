@@ -25,6 +25,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Chair 8 Media
+    url: www.chair8media.com
+    type: external
 favicon: null
 title: chair 8 media
 description: Igniting the passions that help shape a brand.
