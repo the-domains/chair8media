@@ -11,7 +11,8 @@ color:
   saturation: 0.00857000658288598
   rhythmicContrast: 0.57346519571729
 opengraph:
-  image: null
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/c54d291f-2a51-412f-bd35-4428134b3c43.jpg
   type: Chair 8 Media
   appId: '832553463485087'
 layout_spectrum: 0.695234426530078
@@ -19,6 +20,10 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Hart Roberts
+  email: hart@chair8media.com
+  url: www.chair8media.com
 logo: null
 name: chair8media
 cta:
@@ -29,7 +34,8 @@ navigation:
   - name: Chair 8 Media
     url: www.chair8media.com
     type: external
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/68cddbcc-401f-4b03-a94b-e925797c97a4.png
 title: chair 8 media
 description: Igniting the passions that help shape a brand.
 purpose: []
